@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9be3100-c8ca-4c43-9d33-330b70086d2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Report.odt" beforeDir="false" afterPath="$PROJECT_DIR$/Report.odt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TravelGenie$network.coverage" NAME="network Coverage Results" MODIFIED="1542340883458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TravelGenie$learning_genie.coverage" NAME="learning_genie Coverage Results" MODIFIED="1542718186747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TravelGenie$genie.coverage" NAME="genie Coverage Results" MODIFIED="1542322544590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TravelGenie$loadsets.coverage" NAME="loadsets Coverage Results" MODIFIED="1541762154799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/TravelGenie$network__1_.coverage" NAME="network (1) Coverage Results" MODIFIED="1541774358099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TravelGenie$datasets.coverage" NAME="datasets Coverage Results" MODIFIED="1543264653347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-893357306">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="10" />
+          <entry key="net" value="3" />
+          <entry key="ods" value="4" />
+          <entry key="py" value="72" />
+          <entry key="sample" value="5" />
+          <entry key="set" value="89" />
+          <entry key="txt" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="9" />
+          <entry key="PLAIN_TEXT" value="163" />
+          <entry key="Python" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="15" />
+          <entry key="dummy" value="55" />
+          <entry key="py" value="26726" />
+          <entry key="sample" value="178" />
+          <entry key="set" value="471" />
+          <entry key="txt" value="2910" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="15" />
+          <entry key="PLAIN_TEXT" value="3614" />
+          <entry key="Python" value="26726" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part2/genie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1995">
+              <caret line="135" column="39" selection-start-line="135" selection-start-column="39" selection-end-line="135" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/part1/network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#492#666#0" />
+                <element signature="e#703#864#0" />
+                <element signature="e#787#838#0" />
+                <element signature="e#930#1202#0" />
+                <element signature="e#1297#1603#0" />
+                <element signature="e#1446#1564#0" />
+                <element signature="e#1697#2713#0" />
+                <element signature="e#2036#2370#0" />
+                <element signature="e#2471#2579#0" />
+                <element signature="e#2788#3247#0" />
+                <element signature="e#3349#4064#0" />
+                <element signature="e#3466#3615#0" />
+                <element signature="e#5235#5277#0" />
+                <element signature="e#5303#5388#0" />
+                <element signature="e#5450#5912#0" />
+                <element signature="e#5463#5556#0" />
+                <element signature="e#5586#5912#0" />
+                <element signature="e#5705#5755#0" />
+                <element signature="e#5962#6555#0" />
+                <element signature="e#6245#6555#0" />
+                <element signature="e#6617#6775#0" />
+                <element signature="e#6684#6751#0" />
+                <element signature="e#6794#6877#0" />
+                <marker date="1543313846836" expanded="false" signature="487:669" ph="..." />
+                <marker date="1543313846836" expanded="true" signature="3248:3250" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part3/learning_genie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2325">
+              <caret line="158" column="4" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0110000100010</find>
+      <find>0101000100010</find>
+      <find>0100100000010</find>
+      <find>0001100000010</find>
+      <find>0100100100010</find>
+      <find>00011000</find>
+      <find>01001001</find>
+      <find>11010001</find>
+      <find>Greece</find>
+      <find>00010001</find>
+      <find>00010010</find>
+      <find>10111100</find>
+      <find>10010000</find>
+      <find>00011100</find>
+      <find>10011100</find>
+      <find>10010001</find>
+      <find>01001111</find>
+      <find>10011101</find>
+      <find>00011101</find>
+      <find>01001000</find>
+      <find>01011001</find>
+      <find>00011001</find>
+      <find>01100011</find>
+      <find>01100001</find>
+      <find>01010001</find>
+      <find>01001000Australia</find>
+      <find>01001001Australia</find>
+      <find>00001101</find>
+      <find>Australia</find>
+      <find>IMPOSSIBLE_TO_GUESS</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>1</replace>
+      <replace>3</replace>
+      <replace>2</replace>
+      <replace>5</replace>
+      <replace>No,Australia</replace>
+      <replace>1Greece</replace>
+      <replace>0Spain</replace>
+      <replace>0Australia</replace>
+      <replace>dst</replace>
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/verification.set" />
+        <option value="$PROJECT_DIR$/assets/training.set" />
+        <option value="$PROJECT_DIR$/assets/testing.set" />
+        <option value="$PROJECT_DIR$/src/network/loadsets.py" />
+        <option value="$PROJECT_DIR$/src/network/network.py" />
+        <option value="$PROJECT_DIR$/src/part1/datasets.py" />
+        <option value="$PROJECT_DIR$/src/part1/network.py" />
+        <option value="$PROJECT_DIR$/assets/data/1st_3rd.set" />
+        <option value="$PROJECT_DIR$/assets/data/2nd_3rd.set" />
+        <option value="$PROJECT_DIR$/assets/data/3rd_3rd.set" />
+        <option value="$PROJECT_DIR$/part2/questions.py" />
+        <option value="$PROJECT_DIR$/part1/main.py" />
+        <option value="$PROJECT_DIR$/assets/data/extra_training.set" />
+        <option value="$PROJECT_DIR$/assets/data/training.set" />
+        <option value="$PROJECT_DIR$/assets/data/extra_testing.set" />
+        <option value="$PROJECT_DIR$/assets/data/testing.set" />
+        <option value="$PROJECT_DIR$/assets/data/trip.csv" />
+        <option value="$PROJECT_DIR$/assets/data/extra_questions.txt" />
+        <option value="$PROJECT_DIR$/assets/data/questions.txt" />
+        <option value="$PROJECT_DIR$/assets/data/user_testing.set" />
+        <option value="$PROJECT_DIR$/assets/data/user_questions.txt" />
+        <option value="$PROJECT_DIR$/assets/data/user_training.set" />
+        <option value="$PROJECT_DIR$/assets/sample" />
+        <option value="$PROJECT_DIR$/assets/data/extra_features.txt" />
+        <option value="$PROJECT_DIR$/assets/data/features.txt" />
+        <option value="$PROJECT_DIR$/assets/data/user_features.txt" />
+        <option value="$PROJECT_DIR$/assets/data/user/features.txt" />
+        <option value="$PROJECT_DIR$/assets/data/user/learnings.txt" />
+        <option value="$PROJECT_DIR$/assets/data/user/questions.txt" />
+        <option value="$PROJECT_DIR$/assets/data/user/answer_counts.txt" />
+        <option value="$PROJECT_DIR$/part1/__init__.py" />
+        <option value="$PROJECT_DIR$/part2/__main__.py" />
+        <option value="$PROJECT_DIR$/part1/__main__.py" />
+        <option value="$PROJECT_DIR$/part3/__main__.py" />
+        <option value="$PROJECT_DIR$/assets/charts/user_0.5_0.2_100000.ods" />
+        <option value="$PROJECT_DIR$/assets/data/extra/testing.set" />
+        <option value="$PROJECT_DIR$/part1/datasets.py" />
+        <option value="$PROJECT_DIR$/part3/reporting.py" />
+        <option value="$PROJECT_DIR$/assets/data/user/training.set" />
+        <option value="$PROJECT_DIR$/assets/data/extra/training.set" />
+        <option value="$PROJECT_DIR$/assets/data/user/testing.set" />
+        <option value="$PROJECT_DIR$/part1/network.py" />
+        <option value="$PROJECT_DIR$/assets/data/basic/training.set" />
+        <option value="$PROJECT_DIR$/part2/genie.py" />
+        <option value="$PROJECT_DIR$/part3/learning_genie.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1883" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="extra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="neuralnets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="part1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="part2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelGenie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelGenie" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/data/basic" />
+      <recent name="$PROJECT_DIR$/assets/data/user" />
+      <recent name="$PROJECT_DIR$/assets/data/extra" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.datasets">
+    <configuration name="datasets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TravelGenie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="part1/datasets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="genie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TravelGenie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="part2/genie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="learning_genie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TravelGenie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="part3/learning_genie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TravelGenie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="part1/network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.datasets" />
+      <item itemvalue="Python.network" />
+      <item itemvalue="Python.genie" />
+      <item itemvalue="Python.learning_genie" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.datasets" />
+        <item itemvalue="Python.learning_genie" />
+        <item itemvalue="Python.network" />
+        <item itemvalue="Python.genie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9be3100-c8ca-4c43-9d33-330b70086d2e" name="Default Changelist" comment="" />
+      <created>1541754289237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541754289237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Asking questions and parsing responses.&#10;No genie integration yet.">
+      <created>1542026103635</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542026103635</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Distinguish between basic and extra questions.">
+      <created>1542026997797</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542026997797</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Main functions called only if the module is main.">
+      <created>1542028097129</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542028097129</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Started prediction. Also using proper package references in import statements.">
+      <created>1542029594315</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542029594315</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Makes guesses.">
+      <created>1542042979301</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542042979301</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Prints best guess only.">
+      <created>1542044093226</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542044093226</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Different dataset split. Now have 80% training and 20% testing.">
+      <created>1542117788811</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542117788812</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Reworked how prediction works. This complies with the lectures.&#10;Note: There may be unknown side effects from approaches that differ from the examples in lectures.">
+      <created>1542138212409</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542138212409</updated>
+    </task>
+    <task id="LOCAL-00014" summary="All done up to part2, step5 inclusive. Next is step6.">
+      <created>1542143552729</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542143552729</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Small update.">
+      <created>1542184981082</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542184981083</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Makes early guesses. Ignores yes/no answers.">
+      <created>1542190546728</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542190546728</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Part 2 complete.">
+      <created>1542194624049</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542194624049</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Finally resolved the string comparing problem. I need to strip the input from the new line character before comparing.">
+      <created>1542195145254</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1542195145254</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Did set up for starting part 3.">
+      <created>1542200375731</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1542200375731</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Modes: user &gt; extra &gt; basic">
+      <created>1542207823596</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1542207823596</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Started part 3, step 1.">
+      <created>1542208916743</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1542208916743</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Replace 'location' with 'destination'">
+      <created>1542271891503</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1542271891503</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Ask questions for previous destinations.">
+      <created>1542294229074</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1542294229074</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Extracted common function.">
+      <created>1542299399620</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1542299399620</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Better answer building.">
+      <created>1542302347031</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1542302347031</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Seem to work individually. Should work together (not tested).">
+      <created>1542304788017</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1542304788017</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Can add new destination. Needs more testing.">
+      <created>1542309051920</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1542309051920</updated>
+    </task>
+    <task id="LOCAL-00028" summary="remaining TODOs">
+      <created>1542310062205</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1542310062205</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Validate inputs and some helper functions.">
+      <created>1542323788906</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1542323788907</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Made data files more manageable.">
+      <created>1542325423147</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1542325423147</updated>
+    </task>
+    <task id="LOCAL-00031" summary="First step to knowledge.">
+      <created>1542328262746</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1542328262746</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Most info gathering done.">
+      <created>1542333466600</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1542333466600</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Info gathering seems done.">
+      <created>1542336133684</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1542336133684</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Info gathering seems done.">
+      <created>1542342722550</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1542342722550</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Because last commit had no message: Better network creation and training. Should fiddle with the numbers.">
+      <created>1542342785921</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1542342785921</updated>
+    </task>
+    <task id="LOCAL-00036" summary="TODOs">
+      <created>1542718847971</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1542718847971</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Sample __main__.py">
+      <created>1542719537154</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1542719537154</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Using __main__.py -s in all 3 packages.">
+      <created>1543164784959</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1543164784959</updated>
+    </task>
+    <task id="LOCAL-00039" summary="genie.py loads backup networks instead of newly created">
+      <created>1543167005984</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1543167005984</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Chart creation">
+      <created>1543179760506</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1543179760506</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Report update and net trains.">
+      <created>1543246464027</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1543246464027</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Report update and sorting answers in part2.">
+      <created>1543259186211</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1543259186211</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Report update and accept &quot;yep&quot; for destination guess.">
+      <created>1543262757443</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1543262757443</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Small update. Preparing for big change. need to be able to revert.">
+      <created>1543263622424</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1543263622424</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Learning now alters the network used in user mode.">
+      <created>1543265550687</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1543265550687</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Running instructions in report.">
+      <created>1543270640441</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1543270640441</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Hide deprecation warning from library. Report update">
+      <created>1543273483918</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1543273483918</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Report update. Good networks.">
+      <created>1543278870294</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1543278870294</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Minor fix">
+      <created>1543315361454</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1543315361454</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Added canada. Report examples &amp; testing is done.">
+      <created>1543340689189</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1543340689189</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Report update.">
+      <created>1543342861531</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1543342861531</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Report update.">
+      <created>1543344066569</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1543344066569</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Report Lit review. Only appendix left.">
+      <created>1543348491229</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1543348491230</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Report appendix start.">
+      <created>1543349565605</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1543349565605</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1080" height="1920" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24127907" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499031" weight="0.32902136" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3998875" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499031" weight="0.3295838" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500969" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32845894" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295838" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32945737" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="remaining TODOs" />
+    <MESSAGE value="Validate inputs and some helper functions." />
+    <MESSAGE value="Made data files more manageable." />
+    <MESSAGE value="First step to knowledge." />
+    <MESSAGE value="Most info gathering done." />
+    <MESSAGE value="Info gathering seems done." />
+    <MESSAGE value="Because last commit had no message: Better network creation and training. Should fiddle with the numbers." />
+    <MESSAGE value="TODOs" />
+    <MESSAGE value="Sample __main__.py" />
+    <MESSAGE value="Using __main__.py -s in all 3 packages." />
+    <MESSAGE value="genie.py loads backup networks instead of newly created" />
+    <MESSAGE value="Chart creation" />
+    <MESSAGE value="Report update and net trains." />
+    <MESSAGE value="Report update and sorting answers in part2." />
+    <MESSAGE value="Report update and accept &quot;yep&quot; for destination guess." />
+    <MESSAGE value="Small update. Preparing for big change. need to be able to revert." />
+    <MESSAGE value="Learning now alters the network used in user mode." />
+    <MESSAGE value="Running instructions in report." />
+    <MESSAGE value="Hide deprecation warning from library. Report update" />
+    <MESSAGE value="Report update. Good networks." />
+    <MESSAGE value="Minor fix" />
+    <MESSAGE value="Added canada. Report examples &amp; testing is done." />
+    <MESSAGE value="Report update." />
+    <MESSAGE value="Report Lit review. Only appendix left." />
+    <MESSAGE value="Report appendix start." />
+    <option name="LAST_COMMIT_MESSAGE" value="Report appendix start." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/lib64/python3.6/site-packages/sklearn/neural_network/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib64/python3.6/site-packages/sklearn/externals/joblib.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1/network.py" />
+    <entry file="file://$PROJECT_DIR$/assets/neuralnets/net1.net" />
+    <entry file="file://$PROJECT_DIR$/assets/data/extra_2nd_3rd.set" />
+    <entry file="file://$PROJECT_DIR$/assets/data/extra_3rd_3rd.set" />
+    <entry file="file://$PROJECT_DIR$/assets/data/2nd_3rd.set" />
+    <entry file="file://$PROJECT_DIR$/assets/data/3rd_3rd.set" />
+    <entry file="file://$PROJECT_DIR$/part1/main.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1247971763/sys.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib64/python3.6/site-packages/sklearn/externals/six.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/extra_1st_3rd.set" />
+    <entry file="file://$PROJECT_DIR$/assets/data/1st_3rd.set" />
+    <entry file="file:///usr/lib64/python3.6/site-packages/sklearn/metrics/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="108" column="13" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib64/python3.6/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="319" column="16" lean-forward="true" selection-start-line="319" selection-start-column="16" selection-end-line="319" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1247971763/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="2799" column="8" selection-start-line="2799" selection-start-column="8" selection-end-line="2799" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/temp.txt" />
+    <entry file="file://$PROJECT_DIR$/assets/data/basic/questions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/trip.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib64/python3.6/site-packages/sklearn/neural_network/multilayer_perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="884" column="8" selection-start-line="884" selection-start-column="8" selection-end-line="884" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib64/python3.6/site-packages/sklearn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/sklearn/neural_network/multilayer_perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1363">
+          <caret line="893" column="35" selection-start-line="893" selection-start-column="17" selection-end-line="893" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sample">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib64/python3.6/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="2295" column="8" selection-start-line="2295" selection-start-column="8" selection-end-line="2295" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib64/python3.6/os.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/user/learnings.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/charts/user_0.5_0.2_100000.ods">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="66132" column="40" selection-start-line="66132" selection-start-column="40" selection-end-line="66132" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/charts/user_0.1_0.4_1000000.ods">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-102576">
+          <caret line="1366" column="123" lean-forward="true" selection-start-line="1366" selection-start-column="123" selection-end-line="1366" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/basic/features.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/extra/features.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/user/features.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/user/answer_counts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/extra/questions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/user/dream_counts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part1/datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part3/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part1/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/extra/training.set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/extra/testing.set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/user/network.net">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/user/questions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/user/training.set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/user/testing.set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/basic/training.set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/basic/testing.set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part3/reporting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/genie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="135" column="39" selection-start-line="135" selection-start-column="39" selection-end-line="135" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part3/learning_genie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="158" column="4" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part1/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#492#666#0" />
+            <element signature="e#703#864#0" />
+            <element signature="e#787#838#0" />
+            <element signature="e#930#1202#0" />
+            <element signature="e#1297#1603#0" />
+            <element signature="e#1446#1564#0" />
+            <element signature="e#1697#2713#0" />
+            <element signature="e#2036#2370#0" />
+            <element signature="e#2471#2579#0" />
+            <element signature="e#2788#3247#0" />
+            <element signature="e#3349#4064#0" />
+            <element signature="e#3466#3615#0" />
+            <element signature="e#5235#5277#0" />
+            <element signature="e#5303#5388#0" />
+            <element signature="e#5450#5912#0" />
+            <element signature="e#5463#5556#0" />
+            <element signature="e#5586#5912#0" />
+            <element signature="e#5705#5755#0" />
+            <element signature="e#5962#6555#0" />
+            <element signature="e#6245#6555#0" />
+            <element signature="e#6617#6775#0" />
+            <element signature="e#6684#6751#0" />
+            <element signature="e#6794#6877#0" />
+            <marker date="1543313846836" expanded="false" signature="487:669" ph="..." />
+            <marker date="1543313846836" expanded="true" signature="3248:3250" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+</project>
